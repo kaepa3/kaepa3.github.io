@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
-
-<title>ＴＫＣの漫才太郎</title>
-<link>http://kaepa3.github.io/index.html</link>
-<description>趣味を見つけるためのPodcast</description>
-<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-<language>ja</language>
-
-<item>
-<title>艦これの話をしろとはいうものの</title>
-<description>泥酔の中作成した途方も無いPodcast第一回</description>
-<pubDate>Wed, 22 Mar 2014 19:08:12 +0900</pubDate>
-<enclosure url="http://kaepa3.github.io/podcast1.mp3" length="6336596" type="audio/mpeg" />
-<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-</item>
-
+	<title>ＴＫＣの漫才太郎</title>
+	<link>http://kaepa3.github.io/index.html</link>
+	<description>趣味を見つけるためのPodcast</description>
+	<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
+	<language>ja</language>
+	<item>
+		<title>艦これの話をしろとはいうものの</title>
+		<description>泥酔の中作成した途方も無いPodcast第一回</description>
+		<pubDate>Wed, 22 Mar 2014 19:08:12 +0900</pubDate>
+		<enclosure url="http://kaepa3.github.io/podcast1.mp3" length="6336596" type="audio/mpeg" />
+		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
+	</item>
 </channel>
 </rss>

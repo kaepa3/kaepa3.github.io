@@ -1,0 +1,63 @@
+<!--/ 
+Content-type: text/html
+-->
+
+<html>
+<head>
+<META charset="UTF-8">
+<title><%= _htmltitle %></title>
+</head>
+<style>
+body {
+	background-color: #000000;
+    text-align: center;
+    font-family:Meiryo, メイリオ;
+	color:#F0F0F0;
+}
+
+table {
+
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+th {
+	background-color: #000;
+	border: solid 1px;
+	padding: 0.5em;
+}
+td {
+	border: solid 1px;
+	background-color: #767676;
+	padding: 0.5em;
+}
+
+</style>
+<body>
+<div id="title">
+	<h1><%= _htmltitle %></h1>
+<!--/ #title--></div>
+<div id="titleimg">
+	<img src="<%= _htmlimgurl%>" width=20% alt="アートカバー"><br><br>
+<!--/ #titleimg--></div>
+<div id="contents">
+	<table>
+	 <tr>
+	  <th>タイトル</th>
+	  <th>説明</th>
+	  <th>日付</th>
+	  <th>URL</th>
+	 </tr>
+	 <% _dispItems.each do |y| %>
+		<tr>
+			<td><%= y.title %></td>
+	 		<td><%= y.description %></td>
+	 		<td><%= y.date %></td>
+	 		<td><a Href="<%= y.url%>">音</a></td>
+		</tr>
+	 <% end %>
+	</table>
+</div>
+</body>
+</html>
+
