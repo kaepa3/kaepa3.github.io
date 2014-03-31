@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+*{
+	margin:0;
+	padding:0;
+	color:#FFF;
+}
+img{
+	border:none;
+}
+body {
+	overflow:hidden;
+	font-family:'Lucida Grande',
+	 'Hiragino Kaku Gothic ProN', 'ÉqÉâÉMÉmäpÉS ProN W3',
+	Meiryo, ÉÅÉCÉäÉI, sans-serif;
+}
+#titleinfo{
+	margin:0px auto;
+	width:100%;
+	top:5%;
+	background-color:#262626;
+	border-top:1px solid #4F4F4F;
+	border-bottom:1px solid #4F4F4F;
+	position:absolute;
+	filter: alpha(opacity=75);
+	-moz-opacity:0.75;
+	opacity:0.75;
+}
+oioi{
+	float: left;
+	width: 210px;
+	padding-left: 30px;
+	color: #fff;
+	margin-top: 15px;
+	letter-spacing: 0.08em;
+	font-size: 20px;
+}
+
+#content{
+	margin:0px auto;
+	width:100%;
+	bottom:5%;
+	background-color:#262626;
+	border-top:1px solid #4F4F4F;
+	border-bottom:1px solid #4F4F4F;
+	position:absolute;
+	filter: alpha(opacity=75);
+	-moz-opacity:0.75;
+	opacity:0.75;
+}
+
+h1{
+	float: left;
+	width: 210px;
+	padding-left: 30px;
+	color: #ff00ff;
+	margin-top: 15px;
+	letter-spacing: 0.08em;
+	font-size: 20px;
+}
+
+h1 a{
+	text-decoration: none;
+	color: #fff;
+}
+
+h1 a:hover{
+	color: #ccc;
+}
+
+#content ul{
+	width: 660px;
+	float: left;
+}
+
+#content ul li{
+	float: left;
+	display: block;
+	font-size: 20px;
+	margin: 15px 0 15px 30px;
+	letter-spacing: 0.08em;
+}
+
+#content ul li a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#supersize img, #supersize a{
+	height:100%;
+	width:100%;
+	display:none;
+}
+#supersize .activeslide, #supersize .activeslide img{
+	display:inline;
+}
+
+
+div#content{
+	background: #000;
+}
