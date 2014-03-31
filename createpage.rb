@@ -35,7 +35,7 @@ if doc != nil then
 	_htmldescription = xml.elements['channel/description'].text
 	#イメージの取得
 	_htmlimgurl = xml.elements['channel/itunes:image'].attributes["href"]
-	puts _htmlimgurl
+
 	#アイテムの取得
 	xml.elements.each('channel/item') do |item|
 		dispItem = ItemClass.new(
@@ -49,7 +49,7 @@ if doc != nil then
 end
 
 #出力
-htmlfile = File.open("make.html",'w')
+htmlfile = File.open("archive.html",'w')
 htmlfile.write(erb.result(binding))
 htmlfile.close
 
