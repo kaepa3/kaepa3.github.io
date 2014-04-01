@@ -28,18 +28,18 @@ body {
 }
 oioi{
 	float: left;
-	width: 210px;
+	width: 400px;
 	padding-left: 30px;
 	color: #fff;
-	margin-top: 15px;
+	margin-top: 25px;
 	letter-spacing: 0.08em;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 #content{
 	margin:0px auto;
 	width:100%;
-	bottom:5%;
+	bottom:15%;
 	background-color:#262626;
 	border-top:1px solid #4F4F4F;
 	border-bottom:1px solid #4F4F4F;
