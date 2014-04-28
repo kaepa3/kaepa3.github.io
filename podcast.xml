@@ -16,14 +16,14 @@
 	<item>
 		<title>第二回</title>
 		<description>ここのコメントも考えろよ二回</description>
-		<pubDate></pubDate>
+		<pubDate>2014/4/12</pubDate>
 		<enclosure url="http://kaepa3.github.io/pod_new_2.mp3" length="6336596" type="audio/mpeg" />
 		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
 	</item>
 	<item>
 		<title>第三回</title>
 		<description>エ○バの証人</description>
-		<pubDate></pubDate>
+		<pubDate>2014/4/28</pubDate>
 		<enclosure url="http://kaepa3.github.io/pod_new_3.mp3" length="6336596" type="audio/mpeg" />
 		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
 	</item>
