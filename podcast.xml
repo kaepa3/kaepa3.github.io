@@ -1,3 +1,4 @@
+1042
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -10,35 +11,17 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
-      <title>趣味を見つけよう</title>
-      <description>これ、まったく相手にされてないですね</description>
-      <enclosure url="http://kaepa3.github.io/pod_new_3.mp3"
-        length="6336596"
-        type="audio/mpeg"/>
-      <pubDate>Sat, 28 Jun 2014 19:08:12 +0900</pubDate>
-      <dc:date>2014-06-28T19:08:12+09:00</dc:date>
-    </item>
-    <item>
-      <title>趣味を見つけよう</title>
-      <description>ここのコメントも考えろよ二回</description>
-      <enclosure url="http://kaepa3.github.io/pod_new_2.mp3"
-        length="6336596"
-        type="audio/mpeg"/>
-      <pubDate>Thu, 12 Jun 2014 19:08:12 +0900</pubDate>
-      <dc:date>2014-06-12T19:08:12+09:00</dc:date>
-    </item>
-    <item>
-      <title>趣味を見つけよう</title>
-      <description>タブーの行く末３</description>
+      <title>タブーの行く末３</title>
+      <description>言○会２</description>
       <enclosure url="http://kaepa3.github.io/pod_new_6.mp3"
         length="6336596"
         type="audio/mpeg"/>
-      <pubDate>Mon, 09 Jun 2014 22:14:13 +0900</pubDate>
-      <dc:date>2014-06-09T22:14:13+09:00</dc:date>
+      <pubDate>Tue, 10 Jun 2014 01:26:15 +0900</pubDate>
+      <dc:date>2014-06-10T01:26:15.8404+09:00</dc:date>
     </item>
     <item>
-      <title>趣味を見つけよう</title>
-      <description>タブーの行く末２</description>
+      <title>タブーの行く末２</title>
+      <description>言○会１</description>
       <enclosure url="http://kaepa3.github.io/pod_new_5.mp3"
         length="6336596"
         type="audio/mpeg"/>
@@ -46,13 +29,31 @@
       <dc:date>2014-05-26T19:08:12+09:00</dc:date>
     </item>
     <item>
-      <title>趣味を見つけよう</title>
-      <description>タブーの行く末</description>
+      <title>タブーの行く末</title>
+      <description>真○苑</description>
       <enclosure url="http://kaepa3.github.io/pod_new_4.mp3"
         length="6336596"
         type="audio/mpeg"/>
       <pubDate>Mon, 19 May 2014 19:08:12 +0900</pubDate>
       <dc:date>2014-05-19T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>まったく相手にされてないですね</title>
+      <description>エ○バの証人</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_3.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 28 Apr 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-04-28T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>どうあがいても絶望</title>
+      <description>ここのコメントも考えろよ二回</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_2.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 12 Apr 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-04-12T19:08:12+09:00</dc:date>
     </item>
     <item>
       <title>趣味を見つけよう</title>

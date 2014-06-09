@@ -47,7 +47,7 @@ if doc != nil then
 		_dispItems << dispItem
 	end
 end
-
+puts (erb.result(binding))
 #o—Í
 htmlfile = File.open("archive.html",'w')
 htmlfile.write(erb.result(binding))
