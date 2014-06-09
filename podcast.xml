@@ -36,10 +36,17 @@
 	</item>
 	<item>
 		<title>タブーの行く末２</title>
-		<description>真○苑２</description>
+		<description>言○会１</description>
 		<pubDate>Mon, 26 May 2014 19:08:12 +0900</pubDate>
 		<enclosure url="http://kaepa3.github.io/pod_new_5.mp3" length="6336596" type="audio/mpeg" />
 		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
 	</item>
+	<item>
+		<title>タブーの行く末２</title>
+		<description>言○会２</description>
+		<pubDate>Mon, 9 Jun 2014 22:00:00 +0900</pubDate>
+		<enclosure url="http://kaepa3.github.io/pod_new_6.mp3" length="6336596" type="audio/mpeg" />
+		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
+	</item>	
 </channel>
 </rss>
