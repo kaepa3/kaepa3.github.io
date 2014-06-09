@@ -1,52 +1,68 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-<channel>
-	<title>中野須子のモテないサブカル</title>
-	<link>http://kaepa3.github.io/index.html</link>
-	<description>趣味を見つけるためのPodcast</description>
-	<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	<language>ja</language>
-	<item>
-		<title>趣味を見つけよう</title>
-		<description>泥酔の中作成した途方も無いPodcast第一回</description>
-		<pubDate>Wed, 22 Mar 2014 19:08:12 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_1.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>
-	<item>
-		<title>どうあがいても絶望</title>
-		<description>ここのコメントも考えろよ二回</description>
-		<pubDate>Sat, 12 Apl 2014 19:08:12 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_2.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>
-	<item>
-		<title>これ、まったく相手にされてないですね</title>
-		<description>エ○バの証人</description>
-		<pubDate>Mon, 28 Apl 2014 19:08:12 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_3.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>
-	<item>
-		<title>タブーの行く末</title>
-		<description>真○苑</description>
-		<pubDate>2014-05-12 23:08:31 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_4.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>
-	<item>
-		<title>タブーの行く末２</title>
-		<description>言○会１</description>
-		<pubDate>Mon, 26 May 2014 19:08:12 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_5.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>
-	<item>
-		<title>タブーの行く末２</title>
-		<description>言○会２</description>
-		<pubDate>Mon, 09 Jun 2014 22:14:13 +0900</pubDate>
-		<enclosure url="http://kaepa3.github.io/pod_new_6.mp3" length="6336596" type="audio/mpeg" />
-		<itunes:image href="http://kaepa3.github.io/title.jpeg"/>
-	</item>	
-</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>中野須子のモテないサブカル</title>
+    <link>http://kaepa3.github.io/index.html</link>
+    <description>趣味を見つけるためのPodcast</description>
+    <language>ja</language>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>これ、まったく相手にされてないですね</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_3.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 28 Jun 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-06-28T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>ここのコメントも考えろよ二回</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_2.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 12 Jun 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-06-12T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>タブーの行く末３</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_6.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 09 Jun 2014 22:14:13 +0900</pubDate>
+      <dc:date>2014-06-09T22:14:13+09:00</dc:date>
+    </item>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>タブーの行く末２</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_5.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 26 May 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-05-26T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>タブーの行く末</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_4.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 19 May 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-05-19T19:08:12+09:00</dc:date>
+    </item>
+    <item>
+      <title>趣味を見つけよう</title>
+      <description>泥酔の中作成した途方も無いPodcast第一回</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_1.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 22 Mar 2014 19:08:12 +0900</pubDate>
+      <dc:date>2014-03-22T19:08:12+09:00</dc:date>
+    </item>
+    <itunes:image href="http://kaepa3.github.io/title.jpeg"/>
+  </channel>
 </rss>
