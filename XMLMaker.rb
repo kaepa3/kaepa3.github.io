@@ -34,7 +34,7 @@ rss = RSS::Maker.make("2.0") do |rss|
 end
 
 File.open(YAML_FILE, "w") do |io|
-  p io.write(YAML.dump(yaml))
+  io.write(YAML.dump(yaml))
 end
 
 puts rss
