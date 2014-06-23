@@ -20,7 +20,6 @@ rss = RSS::Maker.make("2.0") do |rss|
   yaml.each{|yam|
 	  i= rss.items.new_item
 	  i.title = yam["title"]
-      i.itunes_image.href  = "http://kaepa3.github.io/title.jpeg"
 	  i.enclosure.url    = yam["enclosure"]
       i.enclosure.type   = i.enclosure.type   || "audio/mpeg"
       i.enclosure.length = i.enclosure.length || 6336596
