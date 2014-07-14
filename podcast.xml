@@ -10,6 +10,15 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
+      <title>メールのコーナー</title>
+      <description>迷惑○ール</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_9.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jul 2014 22:54:16 +0900</pubDate>
+      <dc:date>2014-07-14T22:54:16.503719+09:00</dc:date>
+    </item>
+    <item>
       <title>おもしろいはなし</title>
       <description>野○昭如</description>
       <enclosure url="http://kaepa3.github.io/pod_new_8.mp3"
