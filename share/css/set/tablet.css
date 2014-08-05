@@ -16,6 +16,9 @@
 		font-family:"Lucida Grande","Lucida Sans Unicode","Hiragino Kaku Gothic Pro","ƒqƒ‰ƒMƒmŠpƒS Pro W3","ƒƒCƒŠƒI",Meiryo,"‚l‚r ‚oƒSƒVƒbƒN",Helvetica,Arial,Verdana,sans-serif;
 		font-size:12px;
 	}
+	titleimg{
+		width:60%;
+	}
 	.index {
 		max-width:200px;
 		min-width:60px;
