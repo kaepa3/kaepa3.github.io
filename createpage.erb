@@ -4,65 +4,17 @@ Content-type: text/html
 
 <html>
 <head>
-<META charset="UTF-8">
-<title><%= _htmltitle %></title>
-</head>
-<link href="share/css/set/import.css" rel="stylesheet" type="text/css" media="all" />
-<style>
-body {
-	background-color: #000000;
-    text-align: center;
-	color:#a3a3a3;
-	font-family:"Lucida Grande","Lucida Sans Unicode","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック",Helvetica,Arial,Verdana,sans-serif;
-	font-size:12px
-}
+	<META charset="UTF-8">
+	<title><%= _htmltitle %></title>
+	<meta name="viewport" content="width=device-width" />
+	<!--<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1" />-->
+	<link rel="stylesheet" type="text/css" media="all" href="share/css/set/pc.css" />
+	<!-- ※デフォルトのスタイル（style.css） -->
+	<link rel="stylesheet" type="text/css" media="all" href="share/css/set/tablet.css" />
+	<!-- ※スマートフォン用のスタイル（smart.css） -->
 
-table {
-	text-align: left;
-	border-collapse: collapse;
-	border-spacing:0;
-	margin-left: auto;
-	margin-right: auto;
-	font-family:"Lucida Grande","Lucida Sans Unicode","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック",Helvetica,Arial,Verdana,sans-serif;
-	font-size:12px;
-}
-th {
-	font-weight:bolder
-}
-.index {
-	max-width:200px;
-	min-width:60px;
-}
-.title {
-	min-width:200px;
-	max-width:250px;
-	height:1.1em
-}
-.distributed {
-	min-width:200px;
-	max-width:250px;
-	height:1.1em
-}
-.date {
-	max-width:200px;
-	min-width:90px;
-}
-.url {
-	max-width:200px;
-	min-width:90px;
-}
-div.textinfo {
-	width: 200px;
-	max-width:200px;
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}
-#itunelink {
-	text-shadow:2px 2px 3px #666;
-	font-size:24px;
-} 
-	<link href="share/css/set/import.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<style>
 </style>
 <body>
 <div id="titleimg">
@@ -77,6 +29,10 @@ div.textinfo {
 <!--/ #infomation--></div>
 
 <table>
+	<col span="1">
+	<col span="1" class="distributed">
+	<col span="1" class="date">
+	<col span="1">
 	<thead>
 		<tr>
 			<th class="index">
