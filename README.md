@@ -11,4 +11,4 @@ kaepa3.github.io
 	ruby 2.0.0p481 (2014-05-08) [i386-mingw32]
 
 ##Bon voyage
-	[home](http://kaepa3.github.io/)
+	[home](http://kaepa3.github.io/ )
