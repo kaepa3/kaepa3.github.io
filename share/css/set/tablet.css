@@ -1,5 +1,10 @@
 @charset "utf-8";
+
 @media screen and (max-width: 768px){
+/* デバッグ用*/
+/*
+@media screen and (min-width: 769px){
+*/
 	body {
 		background-color: #000000;
 	    text-align: center;
@@ -17,7 +22,7 @@
 		font-size:12px;
 	}
 	.titleimg{
-		width:30%;
+		width:40%;
 	}
 	.index {
 		max-width:200px;
@@ -35,4 +40,8 @@
 		text-shadow:2px 2px 3px #666;
 		font-size:24px;
 	}
+	#tweet {
+		text-align: center;
+		vertical-align: middle;
+	} 
 }
