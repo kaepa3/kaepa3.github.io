@@ -10,7 +10,16 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
-      <title>京都スペシャル</title>
+      <title>第11回 中野須子の今後のテーマについて</title>
+      <description>多分最後の以外は調査していないと思います。しかも最後のも調査ではなくて単に見てるだけだと思います。</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_11.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 23 Aug 2014 14:00:09 +0900</pubDate>
+      <dc:date>2014-08-23T14:00:09.05017+09:00</dc:date>
+    </item>
+    <item>
+      <title>第10回 京都スペシャル</title>
       <description>ブルーギルはパンク</description>
       <enclosure url="http://kaepa3.github.io/pod_new_10.mp3"
         length="6336596"
