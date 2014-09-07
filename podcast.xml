@@ -118,5 +118,6 @@
       <dc:date>2014-03-22T19:08:12+09:00</dc:date>
     </item>
     <itunes:image href="http://kaepa3.github.io/title.jpeg"/>
+    <itunes:author>中野須子</itunes:author>
   </channel>
 </rss>

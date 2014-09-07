@@ -14,6 +14,7 @@ rss = RSS::Maker.make("2.0") do |rss|
   rss.channel.link = "http://kaepa3.github.io/index.html"
   rss.channel.language = "ja"
   rss.channel.itunes_image = "http://kaepa3.github.io/title.jpeg"
+  rss.channel.itunes_author ="中野須子"
 
   rss.items.do_sort = true
   rss.items.max_size = 30
@@ -27,7 +28,7 @@ rss = RSS::Maker.make("2.0") do |rss|
 	  if yam["pubDate"] == "today"
 	    i.date =  Time.now
 		yam["pubDate"] = i.date
-	  else 
+	  else
 		i.date =  yam["pubDate"]
 	  end
   }
