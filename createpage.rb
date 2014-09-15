@@ -15,19 +15,19 @@ class ItemClass
 	@url = url
   end
 end
-##########################################################
 
+##########################################################
 
 # erb のテンプレートを作成
 erb = ERB.new(IO.read(ERB_FILE), nil, "%" )
 
 # XMLリード開始
-doc = nil 
-File.open("podcast.xml") {|fp| 
+doc = nil
+File.open("podcast.xml") {|fp|
   doc = REXML::Document.new(fp)
 }
 _dispItems = []
-if doc != nil then 
+if doc != nil then
 	xml = doc.root
 	#タイトルの取得
 	_htmltitle = xml.elements['channel/title'].text
@@ -52,4 +52,3 @@ puts (erb.result(binding))
 htmlfile = File.open("archive.html",'w')
 htmlfile.write(erb.result(binding))
 htmlfile.close
-
