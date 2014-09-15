@@ -10,6 +10,15 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
+      <title>第12回 中野須子とキムタク</title>
+      <description>音楽のクオリティは上がってるけど、多分でんぱ組きいてたんだろうね。</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_12.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 15 Sep 2014 22:21:10 +0900</pubDate>
+      <dc:date>2014-09-15T22:21:10.144731+09:00</dc:date>
+    </item>
+    <item>
       <title>第11回 中野須子の今後のテーマについて</title>
       <description>多分最後の以外は調査していないと思います。しかも最後のも調査ではなくて単に見てるだけだと思います。</description>
       <enclosure url="http://kaepa3.github.io/pod_new_11.mp3"
