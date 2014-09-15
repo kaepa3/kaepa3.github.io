@@ -1,0 +1,50 @@
+<!--/ 
+Content-type: text/html
+-->
+
+<html>
+<head>
+	<META charset="UTF-8">
+	<title>Eros Measure</title>
+	<meta name="viewport" content="width=device-width" />
+	<!--<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1" />-->
+	<link rel="stylesheet" type="text/css" media="all" href="share/css/set/erospc.css" />
+	<script src="http://platform.twitter.com/widgets.js" type="text/javascript" charset="utf-8"></script>
+</head>
+<style>
+</style>
+<script>
+function eros_calculation(ctrl){
+    var ep = document.getElementById('eros_point');  
+    textvalue = ctrl.value
+    if(textvalue == ""){
+    	ep.value ="error"
+    }
+    else{
+	    ep.value = (((ctrl.value - 158)/-4)*10)+50;
+    }
+	//Ｄ＝｛(Ｘ－Ａ)／ＳＤ｝×１０＋５０
+	//Ｘ＝個々の身長　　Ａ＝平均身長(１５８)　　ＳＤ＝標準偏差(－４とする)
+}
+function numOnly() {
+  m = String.fromCharCode(event.keyCode);
+  if("0123456789\b\r".indexOf(m, 0) < 0) return false;
+  return true;
+}
+
+function text() {
+  return "Yeah";
+}
+</script>
+<body>
+	<div id="title">=====Eros Measure Ver.JP=====<br>------------------------------</div>
+	<form>
+		<div id="sub_title">1.Input your height.</div>
+		<div id="input_form"><input type="text" name="height_value" size="5" onkeyDown="return numOnly()"/>cm</div>
+		<div id="sub_title">2.Go!!</div>
+		<div id="input_form"><input type="button" value="result" onclick="eros_calculation(height_value)"/></div>
+		<div id="result"> --------------------------<br>your ERO-HENSA is <output id = "eros_point">0</output> pt</div>
+	</form>
+</body>
+</html>
+

@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+@media screen and (min-width: 769px){
+/* デバッグ用*/
+/*
+@media screen and (max-width: 768px){
+*/	
+	body {
+		background-color: #f5f5f5;
+	    text-align: center;
+		color:#a9a9a9;
+		font-family:"Lucida Grande","Lucida Sans Unicode","Hiragino Kaku Gothic Pro","ヒラギノ角ゴ Pro W3","メイリオ",Meiryo,"ＭＳ Ｐゴシック",Helvetica,Arial,Verdana,sans-serif;
+		font-size:12px
+	}
+	
+	#title{
+		width:100%;
+		font-size:32px;
+	}
+	#sub_title{
+		font-size:32px;
+	}
+	#result{
+		font-size:32px;
+	}
+}
