@@ -1,49 +1,53 @@
 ---
-- title: "趣味を見つけよう"
-  description: "泥酔の中作成した途方も無いPodcast第一回"
+- title: 趣味を見つけよう
+  description: 泥酔の中作成した途方も無いPodcast第一回
   pubDate: Wed, 22 Mar 2014 19:08:12 +0900
   enclosure: http://kaepa3.github.io/pod_new_1.mp3
-- title: "どうあがいても絶望"
-  description: "ここのコメントも考えろよ二回"
+- title: どうあがいても絶望
+  description: ここのコメントも考えろよ二回
   pubDate: Sat, 12 Apr 2014 19:08:12 +0900
   enclosure: http://kaepa3.github.io/pod_new_2.mp3
-- title: "まったく相手にされてないですね"
-  description: "エ○バの証人"
+- title: まったく相手にされてないですね
+  description: エ○バの証人
   pubDate: Mon, 28 Apr 2014 19:08:12 +0900
   enclosure: http://kaepa3.github.io/pod_new_3.mp3
-- title: "タブーの行く末"
-  description: "真○苑"
+- title: タブーの行く末
+  description: 真○苑
   pubDate: Mon, 19 May 2014 19:08:12 +0900
   enclosure: http://kaepa3.github.io/pod_new_4.mp3
-- title: "タブーの行く末２"
-  description: "言○会１"
+- title: タブーの行く末２
+  description: 言○会１
   pubDate: Mon, 26 May 2014 19:08:12 +0900
   enclosure: http://kaepa3.github.io/pod_new_5.mp3
-- title: "タブーの行く末３"
-  description: "言○会２"
+- title: タブーの行く末３
+  description: 言○会２
   pubDate: 2014-06-10 01:26:15.840400000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_6.mp3
-- title: "タブーの行く末４"
-  description: "言○会３"
+- title: タブーの行く末４
+  description: 言○会３
   pubDate: 2014-06-24 00:01:46.355778000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_7.mp3
-- title: "おもしろいはなし"
-  description: "野○昭如"
+- title: おもしろいはなし
+  description: 野○昭如
   pubDate: 2014-06-29 19:31:58.222789000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_8.mp3
-- title: "メールのコーナー"
-  description: "迷惑○ール"
+- title: メールのコーナー
+  description: 迷惑○ール
   pubDate: 2014-07-14 22:54:16.503719000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_9.mp3
-- title: "第10回 京都スペシャル"
-  description: "ブルーギルはパンク"
+- title: 第10回 京都スペシャル
+  description: ブルーギルはパンク
   pubDate: 2014-08-04 09:21:54.350447000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_10.mp3
-- title: "第11回 中野須子の今後のテーマについて"
-  description: "多分最後の以外は調査していないと思います。しかも最後のも調査ではなくて単に見てるだけだと思います。"
+- title: 第11回 中野須子の今後のテーマについて
+  description: 多分最後の以外は調査していないと思います。しかも最後のも調査ではなくて単に見てるだけだと思います。
   pubDate: 2014-08-23 14:00:09.050171000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_11.mp3
-- title: "第12回 妖怪ウォッチとクズエピソード"
-  description: "マクラとして話したのカード話の方がセンセーショナル。が、出張費なんだろうなと思っています。"
+- title: 第12回 妖怪ウォッチとクズエピソード
+  description: マクラとして話したのカード話の方がセンセーショナル。が、出張費なんだろうなと思っています。
   pubDate: 2014-09-07 02:00:30.603601000 +09:00
   enclosure: http://kaepa3.github.io/pod_new_12.mp3
+- title: 第13回 中野須子とキムタク
+  description: あぁ、あれと、あれね。と思います。っていうか多分嫁聴いてるんじゃないかな！と俺は思ってます！サーバー立てたらアパッチのログで分かるんだけどね！
+  pubDate: 2014-09-15 22:31:24.070845000 +09:00
+  enclosure: http://kaepa3.github.io/pod_new_13.mp3
