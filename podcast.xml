@@ -10,6 +10,15 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
+      <title>第14回 中野須子と河西あみ</title>
+      <description>河西あみを調べてる間に４５４５しました。</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_16.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 05 Oct 2014 18:46:34 +0900</pubDate>
+      <dc:date>2014-10-05T18:46:34.98469+09:00</dc:date>
+    </item>
+    <item>
       <title>第13回 中野須子とキムタク</title>
       <description>あぁ、あれと、あれね。と思います。っていうか多分嫁聴いてるんじゃないかな！と俺は思ってます！サーバー立てたらアパッチのログで分かるんだけどね！</description>
       <enclosure url="http://kaepa3.github.io/pod_new_13.mp3"
