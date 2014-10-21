@@ -10,6 +10,15 @@
     <description>趣味を見つけるためのPodcast</description>
     <language>ja</language>
     <item>
+      <title>第15回 中野須子と河西あみ</title>
+      <description>河西あみを調べてる間に４５４５しました。</description>
+      <enclosure url="http://kaepa3.github.io/pod_new_14.mp3"
+        length="6336596"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 21 Oct 2014 14:35:55 +0900</pubDate>
+      <dc:date>2014-10-21T14:35:55.521271+09:00</dc:date>
+    </item>
+    <item>
       <title>第14回 中野須子と河西あみ</title>
       <description>河西あみを調べてる間に４５４５しました。</description>
       <enclosure url="http://kaepa3.github.io/suko_no_16.mp3"
